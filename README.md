@@ -18,7 +18,7 @@ each one does one job, looks nice doing it and stays out of your way.
 
 <img src="icons/tuna-dlp.svg" width="52" align="right" alt="">
 
-### [tuna&#8209;dlp](https://github.com/atunfrito/tuna-dlp)
+**[tuna&#8209;dlp](https://github.com/atunfrito/tuna-dlp)**
 
 a simple windows app for yt-dlp and ffmpeg. paste a link, pick what you want, press download.
 
@@ -30,7 +30,7 @@ a simple windows app for yt-dlp and ffmpeg. paste a link, pick what you want, pr
 
 <img src="icons/tuna-fonts.svg" width="52" align="right" alt="">
 
-### [tuna&#8209;fonts](https://github.com/atunfrito/tuna-fonts)
+**[tuna&#8209;fonts](https://github.com/atunfrito/tuna-fonts)**
 
 a font manager for windows 10 and 11. switch fonts off without deleting them, install google fonts in one click.
 
