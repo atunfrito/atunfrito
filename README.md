@@ -7,8 +7,8 @@ no accounts, no ads, no telemetry. everything runs on your computer and the code
 
 | | app | what it does | |
 |:-:|---|---|---|
-| <img src="icons/tuna-dlp.svg" width="36" alt=""> | **[tuna-dlp](https://github.com/atunfrito/tuna-dlp)** | a simple windows app for yt-dlp and ffmpeg. paste a link, pick what you want, press download. | [![release](https://img.shields.io/github/v/release/atunfrito/tuna-dlp?style=flat-square&label=&color=c8102e)](https://github.com/atunfrito/tuna-dlp/releases/latest) |
-| <img src="icons/tuna-fonts.svg" width="36" alt=""> | **[tuna-fonts](https://github.com/atunfrito/tuna-fonts)** | a font manager for windows 10 and 11. switch fonts off without deleting them, install google fonts in one click. | [![release](https://img.shields.io/github/v/release/atunfrito/tuna-fonts?style=flat-square&label=&color=c8102e)](https://github.com/atunfrito/tuna-fonts/releases/latest) |
+| <img src="icons/tuna-dlp.svg" width="36" alt=""> | **[tuna&#8209;dlp](https://github.com/atunfrito/tuna-dlp)** | a simple windows app for yt-dlp and ffmpeg. paste a link, pick what you want, press download. | [![release](https://img.shields.io/github/v/release/atunfrito/tuna-dlp?style=flat-square&label=&color=c8102e)](https://github.com/atunfrito/tuna-dlp/releases/latest) |
+| <img src="icons/tuna-fonts.svg" width="36" alt=""> | **[tuna&#8209;fonts](https://github.com/atunfrito/tuna-fonts)** | a font manager for windows 10 and 11. switch fonts off without deleting them, install google fonts in one click. | [![release](https://img.shields.io/github/v/release/atunfrito/tuna-fonts?style=flat-square&label=&color=c8102e)](https://github.com/atunfrito/tuna-fonts/releases/latest) |
 
 #### how i make them
 
