@@ -7,6 +7,7 @@ each one does one job, looks nice doing it and stays out of your way.
 
 [![atunfrito.es](https://img.shields.io/badge/atunfrito.es-241e18?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D)](https://atunfrito.es)
 [![youtube](https://img.shields.io/badge/youtube-c8102e?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@atunfrito)
+[![ko-fi](https://img.shields.io/badge/ko--fi-241e18?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/atunfrito)
 
 </div>
 
